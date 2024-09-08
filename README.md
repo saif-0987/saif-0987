@@ -7,6 +7,7 @@ Welcome to my GitHub profile! I'm a passionate System Engineer with extensive ex
 - **Operating Systems:** 
   ![Linux](https://img.shields.io/badge/Linux-333333?style=flat&logo=linux&logoColor=yellow) <!-- Example badge with Linux logo -->
 
+  Linux (Ubuntu, CentOS, Debian)
 - **Configuration Management:** 
   ![Ansible](https://img.shields.io/badge/Ansible-333333?style=flat&logo=ansible&logoColor=red) <!-- Example badge with Ansible logo -->
 
