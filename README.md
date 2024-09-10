@@ -51,7 +51,7 @@ Welcome to my GitHub profile! I'm a passionate System Engineer with extensive ex
 
 - **AWS:** EC2, S3, RDS, Lambda, CloudFormation, IAM, and more.
 - **GCP:** Compute Engine, Cloud Storage, Cloud Functions, Kubernetes Engine, and more.
-- **Openstack:**
+- **Openstack**
 
 ## 📬 Get in Touch
 
